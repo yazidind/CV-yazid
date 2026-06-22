@@ -1,7 +1,7 @@
-﻿[build]
+[build]
   publish = "."
 
 [[redirects]]
-  from = "/index.php"
+  from = "/*"
   to = "/index.html"
-  status = 301
+  status = 200
