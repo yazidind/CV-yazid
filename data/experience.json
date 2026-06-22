@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "role": "Senior Software Engineer",
     "company": "Independent / Freelance",
-    "period": "2029 - Present",
+    "period": "2032 - Present",
     "points": [
       "Lead full-stack development for client-facing web applications.",
       "Design backend services, API contracts, and deployment workflows.",
@@ -10,13 +10,33 @@
     ]
   },
   {
-    "role": "Web Developer",
+    "role": "Lead Software Developer",
+    "company": "Product Engineering Team",
+    "period": "2030 - 2032",
+    "points": [
+      "Architected internal platforms and customer portals.",
+      "Mentored junior developers and reviewed delivery quality.",
+      "Coordinated roadmap execution with product and design teams."
+    ]
+  },
+  {
+    "role": "Software Engineer",
     "company": "Digital Agency",
-    "period": "2027 - 2029",
+    "period": "2029 - 2030",
     "points": [
       "Built responsive company websites and internal admin dashboards.",
-      "Integrated third-party APIs and automated routine reporting.",
+      "Integrated third-party APIs and automated reporting workflows.",
       "Collaborated with designers and stakeholders to ship features quickly."
+    ]
+  },
+  {
+    "role": "Junior Web Developer",
+    "company": "Freelance / Internship Projects",
+    "period": "2027 - 2028",
+    "points": [
+      "Delivered landing pages, profile sites, and small business systems.",
+      "Learned clean coding, version control, and client communication.",
+      "Supported bug fixes and content updates after deployment."
     ]
   }
 ]
