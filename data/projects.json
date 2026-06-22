@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Inventory Management System",
+    "description": "Aplikasi inventaris berbasis web dengan dashboard, laporan, dan manajemen stok.",
+    "image": "project-1.jpg",
+    "tech": ["Laravel", "MySQL", "Bootstrap"],
+    "github": "https://github.com/yazidpratama/inventory-system",
+    "demo": "#"
+  },
+  {
+    "title": "Company Profile Website",
+    "description": "Website company profile responsif dengan animasi modern dan optimasi SEO.",
+    "image": "project-2.jpg",
+    "tech": ["PHP", "CSS3", "JavaScript"],
+    "github": "https://github.com/yazidind/repo-green-city",
+    "demo": "https://company-profile-green-city.vercel.app/"
+  },
+  {
+    "title": "Task Planner App",
+    "description": "Aplikasi manajemen tugas sederhana dengan prioritas, status, dan tampilan mobile-first.",
+    "image": "project-3.jpg",
+    "tech": ["NodeJS", "ExpressJS", "MongoDB"],
+    "github": "https://github.com/yazidpratama/task-planner",
+    "demo": "#"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "name": "AWS Certified Cloud Practitioner", "issuer": "AWS", "year": "2027" },
+  { "name": "Azure Fundamentals", "issuer": "Microsoft", "year": "2028" },
+  { "name": "Google Cloud Digital Leader", "issuer": "Google Cloud", "year": "2029" },
+  { "name": "Dicoding - Backend Developer", "issuer": "Dicoding", "year": "2030" },
+  { "name": "Coursera - Web Development", "issuer": "Coursera", "year": "2032" }
+]

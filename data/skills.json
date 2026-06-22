@@ -1,0 +1,20 @@
+[
+  { "name": "HTML", "level": "Advanced", "category": "Frontend" },
+  { "name": "CSS", "level": "Advanced", "category": "Frontend" },
+  { "name": "JavaScript", "level": "Advanced", "category": "Frontend" },
+  { "name": "Bootstrap", "level": "Advanced", "category": "Frontend" },
+  { "name": "Tailwind", "level": "Intermediate", "category": "Frontend" },
+  { "name": "Flutter", "level": "Intermediate", "category": "Frontend" },
+  { "name": "PHP", "level": "Advanced", "category": "Backend" },
+  { "name": "Laravel", "level": "Advanced", "category": "Backend" },
+  { "name": "NodeJS", "level": "Intermediate", "category": "Backend" },
+  { "name": "ExpressJS", "level": "Intermediate", "category": "Backend" },
+  { "name": "MySQL", "level": "Advanced", "category": "Database" },
+  { "name": "PostgreSQL", "level": "Intermediate", "category": "Database" },
+  { "name": "Docker", "level": "Intermediate", "category": "DevOps" },
+  { "name": "GitHub Actions", "level": "Intermediate", "category": "DevOps" },
+  { "name": "CI/CD", "level": "Intermediate", "category": "DevOps" },
+  { "name": "AWS", "level": "Intermediate", "category": "Cloud" },
+  { "name": "Azure", "level": "Beginner", "category": "Cloud" },
+  { "name": "Google Cloud Platform", "level": "Beginner", "category": "Cloud" }
+]
